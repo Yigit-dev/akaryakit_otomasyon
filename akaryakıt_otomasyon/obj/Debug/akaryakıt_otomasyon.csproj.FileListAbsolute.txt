@@ -1,0 +1,10 @@
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\bin\Debug\akaryakıt_otomasyon.exe.config
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\bin\Debug\akaryakıt_otomasyon.exe
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\bin\Debug\akaryakıt_otomasyon.pdb
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\obj\Debug\akaryakıt_otomasyon.csprojAssemblyReference.cache
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\obj\Debug\akaryakıt_otomasyon.Form1.resources
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\obj\Debug\akaryakıt_otomasyon.Properties.Resources.resources
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\obj\Debug\akaryakıt_otomasyon.csproj.GenerateResource.cache
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\obj\Debug\akaryakıt_otomasyon.csproj.CoreCompileInputs.cache
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\obj\Debug\akaryakıt_otomasyon.exe
+D:\C# FORM\Akaryakıt Otomasyonu\akaryakıt_otomasyon\akaryakıt_otomasyon\obj\Debug\akaryakıt_otomasyon.pdb
